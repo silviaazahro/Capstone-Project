@@ -6,12 +6,11 @@
 
 ## 📂 Struktur Proyek
 
-- **Diablyze_ML.ipynb** → Notebook utama yang berisi preprocessing data, training model ANN, evaluasi metrik, serta visualisasi hasil.
+- **Capstone Diabetes.ipynb** → Notebook utama yang berisi preprocessing data, training model ANN, evaluasi metrik, serta visualisasi hasil.
 - **model_diabetes.h5** → Model ANN hasil training dalam format HDF5.
 - **app.py** → REST API berbasis Flask untuk melayani prediksi.
 - **ROC_curve.png**, **confusion_matrix.png** → Visualisasi evaluasi model.
 - **diabetes_prediction_data.csv** → Dataset yang digunakan dalam pelatihan dan pengujian model.
-- **assets/** → Folder berisi gambar dan aset tambahan.
 
 ---
 
